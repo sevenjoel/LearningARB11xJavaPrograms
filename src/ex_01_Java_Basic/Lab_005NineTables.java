@@ -3,7 +3,7 @@ package ex_01_Java_Basic;
 public class Lab_005NineTables {
     public static void main(String[] args) {
     int num = 9;
-        System.out.printf("%d x %d = %d\n", num, 1, num * 1);
+        System.out.printf("%d x %d = %d\n", num, 1, num);
         System.out.printf("%d x %d = %d\n", num, 2, num * 2);
         System.out.printf("%d x %d = %d\n", num, 3, num * 3);
         System.out.printf("%d x %d = %d\n", num, 4, num * 4);
