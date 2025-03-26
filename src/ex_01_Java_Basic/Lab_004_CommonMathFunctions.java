@@ -6,8 +6,8 @@ public class Lab_004_CommonMathFunctions {
         int b = 2;
         // perform common math functions
 
-        System.out.println(a+b);
-        System.out.println(a-b);
+        System.out.printf("The answer for addition of 2 numbers is %d + %d = %d", a, b, a+b);
+        System.out.printf("The answer for subtraction of 2 numbers is %d - %d = %d",a,b,a-b);
         System.out.println(a*b);
         System.out.println(a/b);
         System.out.println(a%b);
